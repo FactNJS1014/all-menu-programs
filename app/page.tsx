@@ -72,10 +72,7 @@ export default function Home() {
             </Link>
           </div>
           <div>
-            <Link
-              href="https://learning-1089588014300.asia-southeast1.run.app/"
-              target="_blank"
-            >
+            <Link href="https://fact-learning.netlify.app/" target="_blank">
               <img
                 src="images/learning.svg"
                 alt=""
