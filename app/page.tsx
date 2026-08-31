@@ -2,10 +2,10 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="p-5 lg:p-10  space-y-5">
+    <div className="p-5  space-y-5">
       <div className="container mx-auto ">
         <div className="flex items-center gap-4">
-          <div className="p-2">
+          <div>
             <img
               src="/images/aicode.jpg"
               alt=""
