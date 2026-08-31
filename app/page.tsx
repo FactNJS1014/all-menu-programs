@@ -82,6 +82,17 @@ export default function Home() {
               />
             </Link>
           </div>
+          <div>
+            <Link href="https://repair-manual-one.vercel.app/" target="_blank">
+              <img
+                src="images/repair-manual.jpg"
+                alt=""
+                width={300}
+                height={300}
+                className="rounded-2xl"
+              />
+            </Link>
+          </div>
         </div>
       </div>
     </div>
