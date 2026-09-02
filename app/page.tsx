@@ -94,7 +94,7 @@ export default function Home() {
             </Link>
           </div>
           <div>
-            <Link href="#" target="_blank">
+            <Link href="https://nutri-foods.netlify.app/" target="_blank">
               <img
                 src="images/nutritrack.jpg"
                 alt=""
