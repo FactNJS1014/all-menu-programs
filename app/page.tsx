@@ -93,6 +93,17 @@ export default function Home() {
               />
             </Link>
           </div>
+          <div>
+            <Link href="#" target="_blank">
+              <img
+                src="images/nutritrack.jpg"
+                alt=""
+                width={300}
+                height={300}
+                className="rounded-2xl"
+              />
+            </Link>
+          </div>
         </div>
       </div>
     </div>
