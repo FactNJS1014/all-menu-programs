@@ -52,7 +52,7 @@ export default function Home() {
               target="_blank"
             >
               <img
-                src="images/factTodoV1.svg"
+                src="images/TodoV1.jpg"
                 alt=""
                 width={300}
                 height={300}
@@ -63,7 +63,7 @@ export default function Home() {
           <div>
             <Link href="https://facttodo.netlify.app/" target="_blank">
               <img
-                src="images/factTodoV2.svg"
+                src="images/TodoV2.jpg"
                 alt=""
                 width={300}
                 height={300}
@@ -74,7 +74,7 @@ export default function Home() {
           <div>
             <Link href="https://fact-learning.netlify.app/" target="_blank">
               <img
-                src="images/learning.svg"
+                src="images/fact-learning.jpg"
                 alt=""
                 width={300}
                 height={300}
