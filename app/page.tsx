@@ -27,7 +27,7 @@ export default function Home() {
               target="_blank"
             >
               <img
-                src="images/money.svg"
+                src="images/ex-in.jpg"
                 alt=""
                 width={300}
                 height={300}
@@ -38,7 +38,7 @@ export default function Home() {
           <div>
             <Link href="https://factfruit.netlify.app/" target="_blank">
               <img
-                src="images/factfruit.svg"
+                src="images/factfruit.jpg"
                 alt=""
                 width={300}
                 height={300}
