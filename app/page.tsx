@@ -45,14 +45,15 @@ export default function Home() {
         {/* Header */}
         <div className="flex items-center gap-4 bg-white/70 backdrop-blur-sm rounded-2xl p-4 shadow-sm border border-slate-100">
           <img
-            src="/images/aicode.jpg"
+            src="/images/logo1.png"
             alt=""
             width={60}
             height={60}
             className="rounded-full ring-2 ring-indigo-200 shrink-0"
           />
           <p className="text-xl sm:text-2xl font-bold text-slate-800">
-            All Menu Programs Personal With AI Agents
+            <span className="text-sky-600">All Menu Programs&nbsp;</span>
+            Personal With AI Agents
           </p>
         </div>
 
