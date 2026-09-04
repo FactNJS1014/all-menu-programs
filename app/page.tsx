@@ -36,6 +36,11 @@ const projects = [
     img: "images/nutritrack.jpg",
     name: "NutriTrack",
   },
+  {
+    href: "https://educode-academy.netlify.app/",
+    img: "images/educode.jpg",
+    name: "EducodeAcademy",
+  },
 ];
 
 export default function Home() {
