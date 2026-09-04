@@ -41,6 +41,11 @@ const projects = [
     img: "images/educode.jpg",
     name: "EducodeAcademy",
   },
+  {
+    href: "https://fact-english.netlify.app/",
+    img: "images/factenglish.jpg",
+    name: "Fact English",
+  },
 ];
 
 export default function Home() {
