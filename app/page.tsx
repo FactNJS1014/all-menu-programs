@@ -46,6 +46,11 @@ const projects = [
     img: "images/factenglish.jpg",
     name: "Fact English",
   },
+  {
+    href: "https://cyberlesson.netlify.app/",
+    img: "images/cyberteams.jpg",
+    name: "Cyber Learning",
+  },
 ];
 
 export default function Home() {
