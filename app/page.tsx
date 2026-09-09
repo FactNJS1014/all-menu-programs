@@ -71,6 +71,11 @@ const projects = [
     img: "images/pygame.jpg",
     name: "PyGame Academy",
   },
+  {
+    href: "https://pyqt.netlify.app/",
+    img: "images/pyqtwindow.jpg",
+    name: "PyQT Window Academy",
+  },
 ];
 
 export default function Home() {
