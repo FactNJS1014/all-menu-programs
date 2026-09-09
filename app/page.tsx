@@ -51,6 +51,21 @@ const projects = [
     img: "images/cyberteams.jpg",
     name: "Cyber Learning",
   },
+  {
+    href: "https://network-learn.netlify.app/",
+    img: "images/networklearning.jpg",
+    name: "Network Learning",
+  },
+  {
+    href: "https://smart-things-learn.netlify.app/",
+    img: "images/IoTnode.jpg",
+    name: "IoT Learning",
+  },
+  {
+    href: "https://games-learning.netlify.app/",
+    img: "images/gamelearning.jpg",
+    name: "Game Learning",
+  },
 ];
 
 export default function Home() {
