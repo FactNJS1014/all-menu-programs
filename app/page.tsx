@@ -64,7 +64,12 @@ const projects = [
   {
     href: "https://games-learning.netlify.app/",
     img: "images/gamelearning.jpg",
-    name: "Game Learning",
+    name: "Game Academy",
+  },
+  {
+    href: "https://pygames-academy.netlify.app/",
+    img: "images/pygame.jpg",
+    name: "PyGame Academy",
   },
 ];
 
