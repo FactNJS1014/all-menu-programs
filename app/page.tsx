@@ -76,6 +76,11 @@ const projects = [
     img: "images/pyqtwindow.jpg",
     name: "PyQT Window Academy",
   },
+  {
+    href: "https://ai-basic.netlify.app",
+    img: "images/aicreator.jpg",
+    name: "AI Creator Learning",
+  },
 ];
 
 export default function Home() {
