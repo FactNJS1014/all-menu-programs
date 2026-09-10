@@ -81,6 +81,11 @@ const projects = [
     img: "images/aicreator.jpg",
     name: "AI Creator Learning",
   },
+  {
+    href: "https://full-stack-ofcourse.netlify.app",
+    img: "images/fullstack.jpg",
+    name: "Full stack learning",
+  },
 ];
 
 export default function Home() {
