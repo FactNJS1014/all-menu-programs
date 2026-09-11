@@ -91,6 +91,11 @@ const projects = [
     img: "images/aipromptforge.jpg",
     name: "Prompt Forge AI Generate",
   },
+  {
+    href: "https://note-rememeber-g6xk-oczgv3cv2-natdanais-projects-4ebe1b92.vercel.app/",
+    img: "images/notememory.jpg",
+    name: "Note Memory Fullstack",
+  },
 ];
 
 export default function Home() {
