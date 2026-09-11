@@ -86,6 +86,11 @@ const projects = [
     img: "images/fullstack.jpg",
     name: "Full stack learning",
   },
+  {
+    href: "https://promptforge-ai-nine-kappa.vercel.app/",
+    img: "images/aipromptforge.jpg",
+    name: "Prompt Forge AI Generate",
+  },
 ];
 
 export default function Home() {
