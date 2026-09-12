@@ -96,6 +96,11 @@ const projects = [
     img: "images/notememory.jpg",
     name: "Note Memory Fullstack",
   },
+  {
+    href: "https://fixtech-academy.netlify.app",
+    img: "images/csrepair.jpg",
+    name: "Fixtech Academy",
+  },
 ];
 
 export default function Home() {
