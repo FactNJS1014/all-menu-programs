@@ -82,7 +82,7 @@ const projects = [
     name: "AI Creator Learning",
   },
   {
-    href: "https://full-stack-ofcourse.netlify.app",
+    href: "https://full-stack-new.netlify.app",
     img: "images/fullstack.jpg",
     name: "Full stack learning",
   },
