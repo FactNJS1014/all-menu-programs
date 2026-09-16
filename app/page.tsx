@@ -7,20 +7,16 @@ const projects = [
     name: "Ex-In",
   },
   {
-    href: "https://factfruit.netlify.app/",
+    href: "https://fruits-sales.netlify.app",
     img: "images/factfruit.jpg",
     name: "Fact Fruit",
   },
   {
-    href: "https://factactualjob-1089588014300.asia-southeast1.run.app/",
-    img: "images/TodoV1.jpg",
-    name: "Todo V1",
+    href: "https://taskflow-app-orpin.vercel.app/",
+    img: "images/taskflow.jpg",
+    name: "Todo Task",
   },
-  {
-    href: "https://facttodo.netlify.app/",
-    img: "images/TodoV2.jpg",
-    name: "Todo V2",
-  },
+
   {
     href: "https://fact-learning.netlify.app/",
     img: "images/fact-learning.jpg",
