@@ -17,76 +17,76 @@ const projects = [
     name: "Todo Task",
   },
 
-  {
-    href: "https://fact-learning.netlify.app/",
-    img: "images/fact-learning.jpg",
-    name: "Fact Learning",
-  },
-  {
-    href: "https://repair-manual-one.vercel.app/",
-    img: "images/repair-manual.jpg",
-    name: "Repair Manual",
-  },
-  {
-    href: "https://nutri-foods.netlify.app/",
-    img: "images/nutritrack.jpg",
-    name: "NutriTrack",
-  },
-  {
-    href: "https://educode-academy.netlify.app/",
-    img: "images/educode.jpg",
-    name: "EducodeAcademy",
-  },
-  {
-    href: "https://fact-english.netlify.app/",
-    img: "images/factenglish.jpg",
-    name: "Fact English",
-  },
-  {
-    href: "https://cyberlesson.netlify.app/",
-    img: "images/cyberteams.jpg",
-    name: "Cyber Learning",
-  },
-  {
-    href: "https://network-learn.netlify.app/",
-    img: "images/networklearning.jpg",
-    name: "Network Learning",
-  },
-  {
-    href: "https://smart-things-learn.netlify.app/",
-    img: "images/IoTnode.jpg",
-    name: "IoT Learning",
-  },
-  {
-    href: "https://games-learning.netlify.app/",
-    img: "images/gamelearning.jpg",
-    name: "Game Academy",
-  },
-  {
-    href: "https://pygames-academy.netlify.app/",
-    img: "images/pygame.jpg",
-    name: "PyGame Academy",
-  },
-  {
-    href: "https://pyqt.netlify.app/",
-    img: "images/pyqtwindow.jpg",
-    name: "PyQT Window Academy",
-  },
-  {
-    href: "https://ai-basic.netlify.app",
-    img: "images/aicreator.jpg",
-    name: "AI Creator Learning",
-  },
-  {
-    href: "https://full-stack-new.netlify.app",
-    img: "images/fullstack.jpg",
-    name: "Full stack learning",
-  },
-  {
-    href: "https://promptforge-ai-nine-kappa.vercel.app/",
-    img: "images/aipromptforge.jpg",
-    name: "Prompt Forge AI Generate",
-  },
+  // {
+  //   href: "https://fact-learning.netlify.app/",
+  //   img: "images/fact-learning.jpg",
+  //   name: "Fact Learning",
+  // },
+  // {
+  //   href: "https://repair-manual-one.vercel.app/",
+  //   img: "images/repair-manual.jpg",
+  //   name: "Repair Manual",
+  // },
+  // {
+  //   href: "https://nutri-foods.netlify.app/",
+  //   img: "images/nutritrack.jpg",
+  //   name: "NutriTrack",
+  // },
+  // {
+  //   href: "https://educode-academy.netlify.app/",
+  //   img: "images/educode.jpg",
+  //   name: "EducodeAcademy",
+  // },
+  // {
+  //   href: "https://fact-english.netlify.app/",
+  //   img: "images/factenglish.jpg",
+  //   name: "Fact English",
+  // },
+  // {
+  //   href: "https://cyberlesson.netlify.app/",
+  //   img: "images/cyberteams.jpg",
+  //   name: "Cyber Learning",
+  // },
+  // {
+  //   href: "https://network-learn.netlify.app/",
+  //   img: "images/networklearning.jpg",
+  //   name: "Network Learning",
+  // },
+  // {
+  //   href: "https://smart-things-learn.netlify.app/",
+  //   img: "images/IoTnode.jpg",
+  //   name: "IoT Learning",
+  // },
+  // {
+  //   href: "https://games-learning.netlify.app/",
+  //   img: "images/gamelearning.jpg",
+  //   name: "Game Academy",
+  // },
+  // {
+  //   href: "https://pygames-academy.netlify.app/",
+  //   img: "images/pygame.jpg",
+  //   name: "PyGame Academy",
+  // },
+  // {
+  //   href: "https://pyqt.netlify.app/",
+  //   img: "images/pyqtwindow.jpg",
+  //   name: "PyQT Window Academy",
+  // },
+  // {
+  //   href: "https://ai-basic.netlify.app",
+  //   img: "images/aicreator.jpg",
+  //   name: "AI Creator Learning",
+  // },
+  // {
+  //   href: "https://full-stack-new.netlify.app",
+  //   img: "images/fullstack.jpg",
+  //   name: "Full stack learning",
+  // },
+  // {
+  //   href: "https://promptforge-ai-nine-kappa.vercel.app/",
+  //   img: "images/aipromptforge.jpg",
+  //   name: "Prompt Forge AI Generate",
+  // },
   {
     href: "https://note-rememeber-g6xk-oczgv3cv2-natdanais-projects-4ebe1b92.vercel.app/",
     img: "images/notememory.jpg",
@@ -96,6 +96,11 @@ const projects = [
     href: "https://fixtech-academy.netlify.app",
     img: "images/csrepair.jpg",
     name: "Fixtech Academy",
+  },
+  {
+    href: "https://redsakura-academy.netlify.app",
+    img: "images/elearning.jpg",
+    name: "E-learning",
   },
 ];
 
