@@ -102,6 +102,11 @@ const projects = [
     img: "images/elearning.jpg",
     name: "E-learning",
   },
+  {
+    href: "https://studio-ai-drama.netlify.app",
+    img: "images/studio.jpeg",
+    name: "Studio AI Drama",
+  },
 ];
 
 export default function Home() {
